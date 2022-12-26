@@ -1,0 +1,8 @@
+{
+    "onlineAsr":"engine_v3",
+    "offlineAsr":"engine_v3",
+    "wakeup":"engine_v3",
+    "tts":"engine_v3",
+    "text":"engine_v3",
+    "voiceProcessor":"engine_v3"
+}
